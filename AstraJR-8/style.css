@@ -1,0 +1,5 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to right, rgb(58, 219, 255), rgb(238, 143, 133), rgb(255, 58, 58), rgb(58, 17, 236),rgb(127, 161, 168), rgb(124, 89, 85) );
+    transition: body 200ms ease;
+}
